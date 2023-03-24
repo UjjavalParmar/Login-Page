@@ -3,3 +3,4 @@
 * Node.js Express Architecture with Authentication & Authorization middlewares
 * How to configure Express routes to work with JWT
 * Way to use Sequelize to interact with MongoDB Database
+![Screenshot](https://github.com/ultr0n-coder/Login-Page/blob/main/login.png)
