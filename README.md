@@ -1,6 +1,5 @@
 # Login-Page
-Appropriate Flow for User Login and Registration with JWT Authentication
-Node.js Express Architecture with CORS, Authentication & Authorization middlewares & Sequelize
-How to configure Express routes to work with JWT
-How to define Data Models and association for Authentication and Authorization
-Way to use Sequelize to interact with MySQL Database
+* Appropriate Flow for User Login and Registration with JWT Authentication
+* Node.js Express Architecture with Authentication & Authorization middlewares
+* How to configure Express routes to work with JWT
+* Way to use Sequelize to interact with MongoDB Database
